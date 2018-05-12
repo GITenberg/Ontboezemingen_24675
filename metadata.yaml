@@ -1,0 +1,34 @@
+_repo: Ontboezemingen_24675
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nievelt, Carel van
+    aliases:
+    - Van Nievelt, Carel
+    - Gabriël
+    - Gabriel
+    - Nievelt, C. van (Carel)
+    birthdate: 1843
+    deathdate: 1913
+    gutenberg_agent_id: '26662'
+    url: http://www.gutenberg.org/2009/agents/26662
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Carel_van_Nievelt
+    - http://en.wikipedia.org/wiki/Carel_van_Nievelt
+description: ''
+gutenberg_issued: '2008-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24675'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Voyages and travels'
+title: Ontboezemingen
+url: http://www.gutenberg.org/ebooks/24675
