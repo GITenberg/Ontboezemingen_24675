@@ -19,6 +19,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Carel_van_Nievelt
     - http://en.wikipedia.org/wiki/Carel_van_Nievelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24675#Ontboezemingen
 gutenberg_issued: '2008-02-23'
 gutenberg_type: Text
 identifiers:
